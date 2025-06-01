@@ -44,6 +44,7 @@ I’m a passionate developer with 2+ years of experience building and maintainin
 
 - Built a complete React + Django app with a secure blog system: only authors can edit/delete their posts
 - Developed a dynamic gallery with category-bank-theme dropdowns and informative tooltips
+- Developed a QR code generator that allows users to scan and instantly access the education platform website, improving accessibility and ease of use.
 - Created a form-to-HTML generator: students type content in forms and get ready-made HTML pages
 - Designed an announcements module with role-based visibility for school-wide updates
 - Developed interactive quizzes for enhanced student learning experiences
