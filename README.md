@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋 I'm Sreeja
+# Hi 👋 I'm Sreeja Yetukuri
 
 ### 🚀 Chief Engineer | Full Stack Python Developer | Aspiring Enterprise Architect | Building Scalable & Secure Systems
 
